@@ -31,21 +31,10 @@ Step5:
 
 ## Program
 ```python
-from robomaster import robot
-import time
-
-if __name__ == '__main__':
-    ep_robot = robot.Robot()
-    ep_robot.initialize(conn_type="ap")
-
-    ep_chassis = ep_robot.chassis
-
-    ## Write your code here
 
 
 
-    
-    ep_robot.close()
+   
 ```
 
 ## MobileRobot Movement Image:
